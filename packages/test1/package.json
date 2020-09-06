@@ -2,7 +2,7 @@
   "name": "test1",
   "version": "0.0.3",
   "description": "> TODO: description",
-  "author": "“yangmingbo01 <“yangmingbo01@zuoyebang.com>",
+  "author": "ymb <619697451@qq.com>",
   "homepage": "https://github.com/YMBo/ddrun#readme",
   "license": "ISC",
   "main": "lib/test1.js",
@@ -14,7 +14,7 @@
     "lib"
   ],
   "publishConfig": {
-    "registry": "http://ued.zuoyebang.cc/npm/"
+    "registry": "https://www.npmjs.com/"
   },
   "repository": {
     "type": "git",
