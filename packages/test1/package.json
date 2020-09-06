@@ -1,8 +1,8 @@
 {
-  "name": "test1",
-  "version": "0.0.4",
+  "name": "@test/test1",
+  "version": "1.0.0",
   "description": "> TODO: description",
-  "author": "ymb <619697451@qq.com>",
+  "author": "“yangmingbo01 <“yangmingbo01@zuoyebang.com>",
   "homepage": "https://github.com/YMBo/ddrun#readme",
   "license": "ISC",
   "main": "lib/test1.js",
@@ -14,7 +14,7 @@
     "lib"
   ],
   "publishConfig": {
-    "registry": "https://www.npmjs.com/"
+    "access": "public"
   },
   "repository": {
     "type": "git",
@@ -25,10 +25,5 @@
   },
   "bugs": {
     "url": "https://github.com/YMBo/ddrun/issues"
-  },
-  "dependencies": {
-    "axios": "^0.20.0",
-    "moment": "^2.27.0"
-  },
-  "gitHead": "bd1703da18884a4dcb0ac7e8be0667784dd7a961"
+  }
 }
